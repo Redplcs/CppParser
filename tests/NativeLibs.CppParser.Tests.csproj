@@ -17,7 +17,7 @@
 	</ItemGroup>
 
 	<ItemGroup>
-		<ProjectReference Include="..\..\src\NativeLibs.CppParser.csproj" />
+		<ProjectReference Include="..\src\NativeLibs.CppParser.csproj" />
 	</ItemGroup>
 
 	<ItemGroup>
